@@ -7,4 +7,4 @@
 - 📝 I love doing crosswords, especially the Times Quick Cryptic, and the NYT Mini.
 - 🧩 Puzzles in general, I love!
 - 🏕️ I do the freecodecamp.org daily challenge every day!!
-- 👾 I am going over github processes now to make sure I am up to speed when I work on a volunteer project in January.
+- 👾 I am going over github processes now to make sure I am up to speed when I work on a volunteer project.
